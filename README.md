@@ -4,6 +4,7 @@
                You have two dice- dice_a and dice_b.You need to find the total number of combinations possible.You also need to find the distribution of all combinations.Also you need to find the probabilities of each sum out of all combinations.
 
   SOLUTION:
+  
    1)You need to use two for loops(one nested inside the other),one for generating values of dice_a and the other for generating the values of dice_b for each value in dice_a.A count variable should be declared that counts the total possibilities i.e., 36
    
    2)Here,you need to use two for loops in the same way as the previous step and have a current list that stores a combination temporarily.Another 2D list(total) that stores all the combination is declared and the current list should be appended to the total list.Print the total list using 2 for loops.
