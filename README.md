@@ -1,5 +1,5 @@
-Above is the output of part A problem statement
-
+Below is the output of part A problem statement
+![output_screenshot1](https://github.com/laxie26/The-doomed-dice-Challenge/assets/143947051/795ebc42-61a6-4c84-adea-e8cec2131280)
 
 
 
